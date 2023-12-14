@@ -36,7 +36,5 @@
   "schema_type" : "UNKNOWN",
   "domain" : "Core",
   "status" : "Active",
-  "quality_rule_base" : "\"(name = 'ken' and position = '10')\"",
-  "quality_rule_sql" : "{\"sql\":\"(name = :name_1 and position = :position_1)\",\"params\":{\"name_1\":\"ken\",\"position_1\":\"10\"}}",
-  "quality_rule_cel" : "name == \"ken\" && position == \"10\""
+  "quality_rule_base" : "\"(name = 'ken' and position = '10')\""
 }
